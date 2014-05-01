@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather timeout="10" finishOnKey="#" action="/getNumInfo" method="GET">
+        <Say>Please enter a 9 digit US phone number. Press HASH when finished.</Say>
+    </Gather>
+</Response>

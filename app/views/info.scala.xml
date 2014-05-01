@@ -1,0 +1,4 @@
+@(info: InfoObject)<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>This number is registered to @info.name Of age @info.age and location @info.location</Say>
+</Response>
